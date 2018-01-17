@@ -14,6 +14,7 @@ It is tiny (2kB, including dependencies).
 [![redux channel on discord](https://img.shields.io/badge/discord-%23redux%20%40%20reactiflux-61dafb.svg?style=flat-square)](https://discord.gg/0ZcbPKXt5bZ6au5t)
 [![#rackt on freenode](https://img.shields.io/badge/irc-%23rackt%20%40%20freenode-61DAFB.svg?style=flat-square)](https://webchat.freenode.net/)
 [![Changelog #187](https://img.shields.io/badge/changelog-%23187-lightgrey.svg?style=flat-square)](https://changelog.com/187)
+[![Coverage Status](https://coveralls.io/repos/github/jeezliu/redux/badge.svg?branch=master)](https://coveralls.io/github/jeezliu/redux?branch=master)
 
 >**Learn Redux from its creator:**  
 >**[Part 1: Getting Started with Redux](https://egghead.io/series/getting-started-with-redux) (30 free videos)**<br>
